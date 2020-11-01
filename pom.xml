@@ -18,6 +18,12 @@
 		<java.version>11</java.version>
 	</properties>
 
+	<repositories>
+		<repository>
+			<id>HclTest</id>
+			<url>https://github.com/sopanbagalkar12/HclTest/</url>
+		</repository>
+	</repositories>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
